@@ -1,3 +1,4 @@
+game is live at https://erenrodin22.github.io/neonvoid3d/
 # NEON VOID
 
 A fast-paced top-down wave survival shooter built with **vanilla JavaScript and HTML5 Canvas**. No engines, no dependencies, no assets: all visuals are drawn in code and all sound is synthesized with the Web Audio API.
